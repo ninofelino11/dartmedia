@@ -2,7 +2,6 @@
 package com.cware.back.service.manage;
 
 import com.cware.back.common.RetrieveModel;
-import com.cware.back.common.log;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
